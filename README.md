@@ -1,4 +1,4 @@
-# CPP Java 2 Opdracht 2: 6 februari 2018
+# Open Universiteit CPP Java programmeur module Java 2 Opdracht 2: 6 februari 2018
 
 StudentenAdmininistratie van CPP java2 opdracht 1. 
 
